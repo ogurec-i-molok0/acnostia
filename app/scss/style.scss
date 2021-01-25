@@ -312,6 +312,7 @@
 .about__item-img{
     position: relative;
     .icon-about{
+        z-index: 2;
         img{
             position: absolute;
             top: 50px;
