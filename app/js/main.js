@@ -8,3 +8,5 @@ $(function(){
         nextArrow: '<button class="slick-prev slick-arrow"><img src="../images/arrow-next.png" alt=""> </button>'
     });
 });
+
+var mixer = mixitup('.portfolio__inner');
